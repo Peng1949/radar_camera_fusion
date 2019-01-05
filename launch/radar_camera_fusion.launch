@@ -1,0 +1,4 @@
+<launch>
+    <node pkg="radar_camera_fusion" name="radar_camera_fusion" type="radar_camera_fusion_node">
+    </node>
+</launch>
